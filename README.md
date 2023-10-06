@@ -1,5 +1,6 @@
 # Quizzical
 Quizzical fetches 5 intriguing questions through API requests and assembles them into a unique quiz for you.
+You can access live app link Here: https://scrimba.com/scrim/cod154eb0b0aba10c69e9afa2
 
 To run this project locally, follow these steps:
 
